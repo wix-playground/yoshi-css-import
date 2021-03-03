@@ -26,7 +26,7 @@
     "puppeteer": "^1.1.0",
     "react-test-renderer": "~15.6.0",
     "velocity": "~0.7.0",
-    "yoshi": "^2.1.2"
+    "@wix/yoshi": "^2.1.2"
   },
   "dependencies": {
     "axios": "~0.16.0",
@@ -36,7 +36,7 @@
     "react": "15.6.1",
     "react-dom": "15.6.1",
     "react-i18next": "~4.8.0",
-    "wix-axios-config": "latest",
+    "@wix/wix-axios-config": "latest",
     "regenerator-runtime": "^0.11.0"
   },
   "yoshi": {
